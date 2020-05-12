@@ -16,14 +16,6 @@
       <sourceFolder url="file://$MODULE_DIR$/src/dev/tests/static/framework/Magento/PhpStan" isTestSource="true" packagePrefix="Magento\PhpStan\" />
       <sourceFolder url="file://$MODULE_DIR$/src/lib/internal/Magento/Framework" isTestSource="false" packagePrefix="Magento\Framework\" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/env" />
-      <excludeFolder url="file://$MODULE_DIR$/src/.github" />
-      <excludeFolder url="file://$MODULE_DIR$/src/bin" />
-      <excludeFolder url="file://$MODULE_DIR$/src/dev" />
-      <excludeFolder url="file://$MODULE_DIR$/src/phpserver" />
-      <excludeFolder url="file://$MODULE_DIR$/src/pub" />
-      <excludeFolder url="file://$MODULE_DIR$/src/update" />
-      <excludeFolder url="file://$MODULE_DIR$/src/var" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/allure-framework/allure-codeception" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/allure-framework/allure-php-api" />
       <excludeFolder url="file://$MODULE_DIR$/src/vendor/allure-framework/allure-phpunit" />
